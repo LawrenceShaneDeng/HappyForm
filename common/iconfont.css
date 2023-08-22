@@ -1,0 +1,78 @@
+@font-face {
+  font-family: 'iconfont';  /* Project id 4112263  每次图标都需要增加，更新*/
+  src: url('https://at.alicdn.com/t/c/font_4112263_o7zyq64481l.woff2?t=1687964000374') format('woff2'),
+       url('https://at.alicdn.com/t/c/font_4112263_o7zyq64481l.woff?t=1687964000374') format('woff'),
+       url('https://at.alicdn.com/t/c/font_4112263_o7zyq64481l.ttf?t=1687964000374') format('truetype');
+}
+.iconfont {
+  font-family: "iconfont" !important;
+  font-size: 16px;
+  font-style: normal;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.icon-shangjiantou1:before {
+  content: "\e600";
+}
+
+.icon-xiajiantou:before {
+  content: "\e601";
+}
+
+.icon-wode-active:before {
+  content: "\e67b";
+}
+
+.icon-fenlei:before {
+  content: "\e658";
+}
+
+.icon-shouye:before {
+  content: "\e660";
+}
+
+.icon-fenlei1:before {
+  content: "\e64e";
+}
+
+.icon-gouwuche1:before {
+  content: "\e64f";
+}
+
+.icon-wode:before {
+  content: "\e62d";
+}
+
+.icon-gouwuche2:before {
+  content: "\e613";
+}
+
+.icon-shouye1:before {
+  content: "\e619";
+}
+
+.icon-gouwuche:before {
+  content: "\e899";
+}
+
+.icon-shangjiantou:before {
+  content: "\e628";
+}
+
+.icon-lajitong:before {
+  content: "\e61a";
+}
+
+.icon-shanglajiantou:before {
+  content: "\e626";
+}
+
+.icon-fangdajing1-xianxing:before {
+  content: "\e6ac";
+}
+
+.icon-xiaoxi-zhihui:before {
+  content: "\e61d";
+}
+

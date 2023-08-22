@@ -1,0 +1,15 @@
+/* 全局css文件 */
+
+/* 默认字体颜色 */
+.defaultFontColor{
+	color: #000;
+}
+/* 选中字体颜色 */
+.defaultSelectFontColor{
+	color: cornflowerblue;
+}
+/* 背景颜色 */
+.defaultbackgroundColor{
+	background-color: blue;
+	
+}
